@@ -24,6 +24,7 @@
 
 ## Assistant Tools
 > See [TOOLS.md](TOOLS.md) for a detailed list of available tools and their descriptions.
+> See [AI_DOCS/openai_models.md](AI_DOCS/openai_models.md) for a list of currently available OpenAI models.
 
 ## Personalization
 
